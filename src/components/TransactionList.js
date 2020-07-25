@@ -7,7 +7,6 @@ export function TransactionList() {
             <ul className="list">
                 <li className="minus">
                     Cash <span>-Rs400</span>
-                    <button className="btn-danger btn">delete</button>
                 </li>
             </ul>
         </div>
